@@ -2,7 +2,7 @@
 
 Сборка модов для TechnoMagic сервера Burnage
 
-##Основные моды:
+## Основные моды:
 
 * Applied Energistics 2
   * Applied Integrations
@@ -19,7 +19,7 @@
 * Tinker's Construct 
 
 
-##Дополнительные моды:
+## Дополнительные моды:
 * Aroma1997 Dimensional World
 * Colossal Chests
 * Mapwriter 2
