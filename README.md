@@ -1,4 +1,4 @@
-# TechnoMagic-Burnage
+# TechnoMagic сборка на 1.12.2
 
 Сборка модов для TechnoMagic сервера Burnage
 
