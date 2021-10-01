@@ -2204,6 +2204,24 @@ appliedenergistics2:facade:0, Cable Facade - Salt Block
 appliedenergistics2:facade:0, Cable Facade - Molecular Exciter
 appliedenergistics2:facade:0, Cable Facade - Phasing Block
 appliedenergistics2:facade:0, Cable Facade - Phasing Block (inverted)
+appliedenergistics2:facade:0, Cable Facade - Block of Black Iron
+appliedenergistics2:facade:0, Cable Facade - Block of Luminessence
+appliedenergistics2:facade:0, Cable Facade - Block of Nether Stars
+appliedenergistics2:facade:0, Cable Facade - Block of Crystaltine
+appliedenergistics2:facade:0, Cable Facade - Block of The Ultimate
+appliedenergistics2:facade:0, Cable Facade - Block of Ender
+appliedenergistics2:facade:0, Cable Facade - Block of Ender Stars
+appliedenergistics2:facade:0, Cable Facade - Block of Enhanced Ender
+appliedenergistics2:facade:0, Cable Facade - Black Iron Frame
+appliedenergistics2:facade:0, Cable Facade - Black Iron Lamp
+appliedenergistics2:facade:0, Cable Facade - Black Iron Lamp
+appliedenergistics2:facade:0, Cable Facade - Block of Black Iron
+appliedenergistics2:facade:0, Cable Facade - Block of Black Iron
+appliedenergistics2:facade:0, Cable Facade - Block of Black Iron
+appliedenergistics2:facade:0, Cable Facade - Block of Black Iron
+appliedenergistics2:facade:0, Cable Facade - Block of Black Iron
+appliedenergistics2:facade:0, Cable Facade - Block of Black Iron
+appliedenergistics2:facade:0, Cable Facade - Crafting Table
 appliedenergistics2:facade:0, Cable Facade - Copper Ore
 appliedenergistics2:facade:0, Cable Facade - Bauxite Ore
 appliedenergistics2:facade:0, Cable Facade - Lead Ore
@@ -4350,34 +4368,34 @@ tconstruct:slime_vine_purple_end:0, Purple Slimy Vine
 tconstruct:slime_vine_purple_mid:0, Purple Slimy Vine
 tconstruct:slime_vine_purple:0, Purple Slimy Vine
 tconstruct:pattern:0, Blank Pattern
-tconstruct:pattern:0, Large Sword Blade Pattern
-tconstruct:pattern:0, Fletching Pattern
-tconstruct:pattern:0, Pickaxe Head Pattern
-tconstruct:pattern:0, Shard Pattern
-tconstruct:pattern:0, Scythe Head Pattern
 tconstruct:pattern:0, Hammer Head Pattern
-tconstruct:pattern:0, Bowstring Pattern
-tconstruct:pattern:0, Sign Plate Pattern
-tconstruct:pattern:0, Large Plate Pattern
-tconstruct:pattern:0, Pan Pattern
+tconstruct:pattern:0, Bowlimb Pattern
+tconstruct:pattern:0, Excavator Head Pattern
+tconstruct:pattern:0, Broad Axe Head Pattern
 tconstruct:pattern:0, Cross Guard Pattern
 tconstruct:pattern:0, Axe Head Pattern
-tconstruct:pattern:0, Hand Guard Pattern
-tconstruct:pattern:0, Shovel Head Pattern
-tconstruct:pattern:0, Binding Pattern
-tconstruct:pattern:0, Broad Axe Head Pattern
-tconstruct:pattern:0, Arrow Shaft Pattern
-tconstruct:pattern:0, Tough Binding Pattern
-tconstruct:pattern:0, Sword Blade Pattern
-tconstruct:pattern:0, Bowlimb Pattern
-tconstruct:pattern:0, Tool Rod Pattern
-tconstruct:pattern:0, Wide Guard Pattern
-tconstruct:pattern:0, Knife Blade Pattern
-tconstruct:pattern:0, Tough Tool Rod Pattern
-tconstruct:pattern:0, Sharpening Kit Pattern
-tconstruct:pattern:0, Arrow Head Pattern
 tconstruct:pattern:0, Kama Head Pattern
-tconstruct:pattern:0, Excavator Head Pattern
+tconstruct:pattern:0, Fletching Pattern
+tconstruct:pattern:0, Arrow Shaft Pattern
+tconstruct:pattern:0, Pan Pattern
+tconstruct:pattern:0, Large Sword Blade Pattern
+tconstruct:pattern:0, Shard Pattern
+tconstruct:pattern:0, Wide Guard Pattern
+tconstruct:pattern:0, Sword Blade Pattern
+tconstruct:pattern:0, Hand Guard Pattern
+tconstruct:pattern:0, Bowstring Pattern
+tconstruct:pattern:0, Sharpening Kit Pattern
+tconstruct:pattern:0, Shovel Head Pattern
+tconstruct:pattern:0, Tough Binding Pattern
+tconstruct:pattern:0, Tool Rod Pattern
+tconstruct:pattern:0, Sign Plate Pattern
+tconstruct:pattern:0, Knife Blade Pattern
+tconstruct:pattern:0, Scythe Head Pattern
+tconstruct:pattern:0, Arrow Head Pattern
+tconstruct:pattern:0, Large Plate Pattern
+tconstruct:pattern:0, Pickaxe Head Pattern
+tconstruct:pattern:0, Binding Pattern
+tconstruct:pattern:0, Tough Tool Rod Pattern
 tconstruct:shard:0, Electrical Shard
 tconstruct:shard:0, Energetic Shard
 tconstruct:shard:0, Vibrant Shard
@@ -5547,64 +5565,64 @@ tconstruct:seared_stairs_road:0, Seared Road Stairs
 tconstruct:seared_stairs_tile:0, Seared Tile Stairs
 tconstruct:seared_stairs_creeper:0, Seared Creeperface Stairs
 tconstruct:cast:0, Blank Cast
-tconstruct:cast:0, Large Sword Blade Cast
-tconstruct:cast:0, Pickaxe Head Cast
-tconstruct:cast:0, Shard Cast
-tconstruct:cast:0, Scythe Head Cast
 tconstruct:cast:0, Hammer Head Cast
-tconstruct:cast:0, Bowstring Cast
-tconstruct:cast:0, Sign Plate Cast
-tconstruct:cast:0, Large Plate Cast
-tconstruct:cast:0, Pan Cast
+tconstruct:cast:0, Bowlimb Cast
+tconstruct:cast:0, Excavator Head Cast
+tconstruct:cast:0, Broad Axe Head Cast
 tconstruct:cast:0, Cross Guard Cast
 tconstruct:cast:0, Axe Head Cast
-tconstruct:cast:0, Hand Guard Cast
-tconstruct:cast:0, Shovel Head Cast
-tconstruct:cast:0, Binding Cast
-tconstruct:cast:0, Broad Axe Head Cast
-tconstruct:cast:0, Tough Binding Cast
-tconstruct:cast:0, Sword Blade Cast
-tconstruct:cast:0, Bowlimb Cast
-tconstruct:cast:0, Tool Rod Cast
-tconstruct:cast:0, Wide Guard Cast
-tconstruct:cast:0, Knife Blade Cast
-tconstruct:cast:0, Tough Tool Rod Cast
-tconstruct:cast:0, Sharpening Kit Cast
-tconstruct:cast:0, Arrow Head Cast
 tconstruct:cast:0, Kama Head Cast
-tconstruct:cast:0, Excavator Head Cast
+tconstruct:cast:0, Pan Cast
+tconstruct:cast:0, Large Sword Blade Cast
+tconstruct:cast:0, Shard Cast
+tconstruct:cast:0, Wide Guard Cast
+tconstruct:cast:0, Sword Blade Cast
+tconstruct:cast:0, Hand Guard Cast
+tconstruct:cast:0, Bowstring Cast
+tconstruct:cast:0, Sharpening Kit Cast
+tconstruct:cast:0, Shovel Head Cast
+tconstruct:cast:0, Tough Binding Cast
+tconstruct:cast:0, Tool Rod Cast
+tconstruct:cast:0, Sign Plate Cast
+tconstruct:cast:0, Knife Blade Cast
+tconstruct:cast:0, Scythe Head Cast
+tconstruct:cast:0, Arrow Head Cast
+tconstruct:cast:0, Large Plate Cast
+tconstruct:cast:0, Pickaxe Head Cast
+tconstruct:cast:0, Binding Cast
+tconstruct:cast:0, Tough Tool Rod Cast
 tconstruct:cast_custom:0, Ingot Cast
 tconstruct:cast_custom:1, Nugget Cast
 tconstruct:cast_custom:2, Gem Cast
 tconstruct:cast_custom:3, Plate Cast
 tconstruct:cast_custom:4, Gear Cast
 tconstruct:clay_cast:0, item.tconstruct.clay_cast.blank
-tconstruct:clay_cast:0, Large Sword Blade Clay Cast
-tconstruct:clay_cast:0, Pickaxe Head Clay Cast
-tconstruct:clay_cast:0, Shard Clay Cast
-tconstruct:clay_cast:0, Scythe Head Clay Cast
 tconstruct:clay_cast:0, Hammer Head Clay Cast
-tconstruct:clay_cast:0, Bowstring Clay Cast
-tconstruct:clay_cast:0, Sign Plate Clay Cast
-tconstruct:clay_cast:0, Large Plate Clay Cast
-tconstruct:clay_cast:0, Pan Clay Cast
+tconstruct:clay_cast:0, Bowlimb Clay Cast
+tconstruct:clay_cast:0, Excavator Head Clay Cast
+tconstruct:clay_cast:0, Broad Axe Head Clay Cast
 tconstruct:clay_cast:0, Cross Guard Clay Cast
 tconstruct:clay_cast:0, Axe Head Clay Cast
-tconstruct:clay_cast:0, Hand Guard Clay Cast
-tconstruct:clay_cast:0, Shovel Head Clay Cast
-tconstruct:clay_cast:0, Binding Clay Cast
-tconstruct:clay_cast:0, Broad Axe Head Clay Cast
-tconstruct:clay_cast:0, Tough Binding Clay Cast
-tconstruct:clay_cast:0, Sword Blade Clay Cast
-tconstruct:clay_cast:0, Bowlimb Clay Cast
-tconstruct:clay_cast:0, Tool Rod Clay Cast
-tconstruct:clay_cast:0, Wide Guard Clay Cast
-tconstruct:clay_cast:0, Knife Blade Clay Cast
-tconstruct:clay_cast:0, Tough Tool Rod Clay Cast
-tconstruct:clay_cast:0, Sharpening Kit Clay Cast
-tconstruct:clay_cast:0, Arrow Head Clay Cast
 tconstruct:clay_cast:0, Kama Head Clay Cast
-tconstruct:clay_cast:0, Excavator Head Clay Cast
+tconstruct:clay_cast:0, Pan Clay Cast
+tconstruct:clay_cast:0, Large Sword Blade Clay Cast
+tconstruct:clay_cast:0, Shard Clay Cast
+tconstruct:clay_cast:0, Wide Guard Clay Cast
+tconstruct:clay_cast:0, Sword Blade Clay Cast
+tconstruct:clay_cast:0, Hand Guard Clay Cast
+tconstruct:clay_cast:0, Bowstring Clay Cast
+tconstruct:clay_cast:0, Sharpening Kit Clay Cast
+tconstruct:clay_cast:0, Shovel Head Clay Cast
+tconstruct:clay_cast:0, Tough Binding Clay Cast
+tconstruct:clay_cast:0, Tool Rod Clay Cast
+tconstruct:clay_cast:0, Sign Plate Clay Cast
+tconstruct:clay_cast:0, Knife Blade Clay Cast
+tconstruct:clay_cast:0, Scythe Head Clay Cast
+tconstruct:clay_cast:0, Arrow Head Clay Cast
+tconstruct:clay_cast:0, Large Plate Clay Cast
+tconstruct:clay_cast:0, Pickaxe Head Clay Cast
+tconstruct:clay_cast:0, Binding Clay Cast
+tconstruct:clay_cast:0, Tough Tool Rod Clay Cast
 tconstruct:stone_torch:0, Stone Torch
 tconstruct:stone_ladder:0, Stone Ladder
 tconstruct:punji:0, Punji Sticks
@@ -6305,6 +6323,102 @@ enderutilities:storage_0:4, Handy Chest (Normal)
 enderutilities:storage_0:5, Handy Chest (Large)
 enderutilities:storage_0:6, Handy Chest (Extended)
 enderutilities:storage_0:7, Junk Storage Unit
+extendedcrafting:storage:0, Block of Black Iron
+extendedcrafting:storage:1, Block of Luminessence
+extendedcrafting:storage:2, Block of Nether Stars
+extendedcrafting:storage:3, Block of Crystaltine
+extendedcrafting:storage:4, Block of The Ultimate
+extendedcrafting:storage:5, Block of Ender
+extendedcrafting:storage:6, Block of Ender Stars
+extendedcrafting:storage:7, Block of Enhanced Ender
+extendedcrafting:frame, Black Iron Frame
+extendedcrafting:lamp:0, Black Iron Lamp
+extendedcrafting:lamp:1, Black Iron Lamp
+extendedcrafting:trimmed:0, Block of Black Iron
+extendedcrafting:trimmed:1, Block of Black Iron
+extendedcrafting:trimmed:2, Block of Black Iron
+extendedcrafting:trimmed:3, Block of Black Iron
+extendedcrafting:trimmed:4, Block of Black Iron
+extendedcrafting:trimmed:5, Block of Black Iron
+extendedcrafting:crafting_table, Crafting Table
+extendedcrafting:pedestal, Pedestal
+extendedcrafting:crafting_core, Crafting Core
+extendedcrafting:interface, Automation Interface
+extendedcrafting:table_basic, Basic Crafting Table
+extendedcrafting:table_advanced, Advanced Crafting Table
+extendedcrafting:table_elite, Elite Crafting Table
+extendedcrafting:table_ultimate, Ultimate Crafting Table
+extendedcrafting:compressor, Quantum Compressor
+extendedcrafting:ender_alternator, Ender Alternator
+extendedcrafting:ender_crafter, Ender Crafter
+extendedcrafting:guide, Extended Crafting Guide
+extendedcrafting:material:0, Black Iron Ingot
+extendedcrafting:material:1, Black Iron Nugget
+extendedcrafting:material:2, Black Iron Slate
+extendedcrafting:material:3, Black Iron Rod
+extendedcrafting:material:7, Luminessence
+extendedcrafting:material:8, Basic Catalyst
+extendedcrafting:material:9, Advanced Catalyst
+extendedcrafting:material:10, Elite Catalyst
+extendedcrafting:material:11, Ultimate Catalyst
+extendedcrafting:material:12, Crystaltine Catalyst
+extendedcrafting:material:13, The Ultimate Catalyst
+extendedcrafting:material:14, Basic Component
+extendedcrafting:material:15, Advanced Component
+extendedcrafting:material:16, Elite Component
+extendedcrafting:material:17, Ultimate Component
+extendedcrafting:material:18, Crystaltine Component
+extendedcrafting:material:19, The Ultimate Component
+extendedcrafting:material:24, Crystaltine Ingot
+extendedcrafting:material:25, Crystaltine Nugget
+extendedcrafting:material:32, The Ultimate Ingot
+extendedcrafting:material:33, The Ultimate Nugget
+extendedcrafting:material:36, Ender Ingot
+extendedcrafting:material:37, Ender Nugget
+extendedcrafting:material:40, Ender Star
+extendedcrafting:material:41, Ender Star Nugget
+extendedcrafting:material:48, Enhanced Ender Ingot
+extendedcrafting:material:49, Enhanced Ender Nugget
+extendedcrafting:material:128, Diamond Nugget
+extendedcrafting:material:129, Emerald Nugget
+extendedcrafting:material:140, Nether Star Nugget
+extendedcrafting:handheld_table, Handheld Crafting Table
+extendedcrafting:recipe_maker:0, Recipe Maker
+extendedcrafting:singularity:0, Coal Singularity
+extendedcrafting:singularity:1, Iron Singularity
+extendedcrafting:singularity:2, Lapis Lazuli Singularity
+extendedcrafting:singularity:3, Redstone Singularity
+extendedcrafting:singularity:4, Glowstone Singularity
+extendedcrafting:singularity:5, Gold Singularity
+extendedcrafting:singularity:6, Diamond Singularity
+extendedcrafting:singularity:7, Emerald Singularity
+extendedcrafting:singularity:16, Aluminum Singularity
+extendedcrafting:singularity:17, Copper Singularity
+extendedcrafting:singularity:18, Tin Singularity
+extendedcrafting:singularity:19, Bronze Singularity
+extendedcrafting:singularity:20, Zinc Singularity
+extendedcrafting:singularity:21, Brass Singularity
+extendedcrafting:singularity:22, Silver Singularity
+extendedcrafting:singularity:23, Lead Singularity
+extendedcrafting:singularity:24, Steel Singularity
+extendedcrafting:singularity:25, Nickel Singularity
+extendedcrafting:singularity:26, Constantan Singularity
+extendedcrafting:singularity:27, Electrum Singularity
+extendedcrafting:singularity:28, Invar Singularity
+extendedcrafting:singularity:29, Mithril Singularity
+extendedcrafting:singularity:30, Tungsten Singularity
+extendedcrafting:singularity:31, Titanium Singularity
+extendedcrafting:singularity:32, Uranium Singularity
+extendedcrafting:singularity:33, Chrome Singularity
+extendedcrafting:singularity:34, Platinum Singularity
+extendedcrafting:singularity:35, Iridium Singularity
+extendedcrafting:singularity:48, Signalum Singularity
+extendedcrafting:singularity:49, Lumium Singularity
+extendedcrafting:singularity:50, Enderium Singularity
+extendedcrafting:singularity:64, Ardite Singularity
+extendedcrafting:singularity:65, Cobalt Singularity
+extendedcrafting:singularity:66, Manyullyn Singularity
+extendedcrafting:singularity_ultimate, The Ultimate Singularity
 immersiveengineering:ore:0, Copper Ore
 immersiveengineering:ore:1, Bauxite Ore
 immersiveengineering:ore:2, Lead Ore
@@ -6734,27 +6848,6 @@ mekanismtools:steelhelmet, Steel Helmet
 mekanismtools:steelchestplate, Steel Chestplate
 mekanismtools:steelleggings, Steel Leggings
 mekanismtools:steelboots, Steel Boots
-storagedrawers:upgrade_template, Upgrade Template
-storagedrawers:upgrade_storage:0, Storage Upgrade (I)
-storagedrawers:upgrade_storage:1, Storage Upgrade (II)
-storagedrawers:upgrade_storage:2, Storage Upgrade (III)
-storagedrawers:upgrade_storage:3, Storage Upgrade (IV)
-storagedrawers:upgrade_storage:4, Storage Upgrade (V)
-storagedrawers:upgrade_one_stack, Storage Downgrade
-storagedrawers:upgrade_status:0, Status Upgrade (I)
-storagedrawers:upgrade_status:1, Status Upgrade (II)
-storagedrawers:upgrade_void, Void Upgrade
-storagedrawers:upgrade_conversion, Conversion Upgrade
-storagedrawers:upgrade_creative:0, Creative Storage Upgrade
-storagedrawers:upgrade_creative:1, Creative Vending Upgrade
-storagedrawers:upgrade_redstone:0, Redstone Upgrade
-storagedrawers:upgrade_redstone:1, Redstone Max Upgrade
-storagedrawers:upgrade_redstone:2, Redstone Min Upgrade
-storagedrawers:drawer_key, Drawer Key
-storagedrawers:shroud_key, Concealment Key
-storagedrawers:personal_key, Personal Key
-storagedrawers:quantify_key, Quantify Key
-storagedrawers:tape, Packing Tape
 storagedrawers:basicdrawers:0, Basic Drawer
 storagedrawers:basicdrawers:0, Basic Drawer
 storagedrawers:basicdrawers:0, Basic Drawer
@@ -6805,7 +6898,27 @@ storagedrawers:customdrawers:2, Framed Drawers 2x2
 storagedrawers:customdrawers:3, Framed Half Drawers 1x2
 storagedrawers:customdrawers:4, Framed Half Drawers 2x2
 storagedrawers:customtrim, Framed Trim
-thaumicenergistics:infusion_provider, Essentia Infusion Provider
+storagedrawers:upgrade_template, Upgrade Template
+storagedrawers:upgrade_storage:0, Storage Upgrade (I)
+storagedrawers:upgrade_storage:1, Storage Upgrade (II)
+storagedrawers:upgrade_storage:2, Storage Upgrade (III)
+storagedrawers:upgrade_storage:3, Storage Upgrade (IV)
+storagedrawers:upgrade_storage:4, Storage Upgrade (V)
+storagedrawers:upgrade_one_stack, Storage Downgrade
+storagedrawers:upgrade_status:0, Status Upgrade (I)
+storagedrawers:upgrade_status:1, Status Upgrade (II)
+storagedrawers:upgrade_void, Void Upgrade
+storagedrawers:upgrade_conversion, Conversion Upgrade
+storagedrawers:upgrade_creative:0, Creative Storage Upgrade
+storagedrawers:upgrade_creative:1, Creative Vending Upgrade
+storagedrawers:upgrade_redstone:0, Redstone Upgrade
+storagedrawers:upgrade_redstone:1, Redstone Max Upgrade
+storagedrawers:upgrade_redstone:2, Redstone Min Upgrade
+storagedrawers:drawer_key, Drawer Key
+storagedrawers:shroud_key, Concealment Key
+storagedrawers:personal_key, Personal Key
+storagedrawers:quantify_key, Quantify Key
+storagedrawers:tape, Packing Tape
 thaumicenergistics:essentia_cell_1k, 1k ME Essentia Storage Cell
 thaumicenergistics:essentia_cell_4k, 4k ME Essentia Storage Cell
 thaumicenergistics:essentia_cell_16k, 16k ME Essentia Storage Cell
@@ -6824,6 +6937,7 @@ thaumicenergistics:essentia_component_16k, 16k ME Essentia Storage Component
 thaumicenergistics:essentia_component_64k, 64k ME Essentia Storage Component
 thaumicenergistics:upgrade_arcane, Arcane Charging Upgrade
 thaumicenergistics:dummy_aspect, item.thaumicenergistics.dummy_aspect.name
+thaumicenergistics:infusion_provider, Essentia Infusion Provider
 thaumicterminal:item_part:0, Arcane Terminal
 industrialwires:mechanical_converter:0, Rotational Motor
 industrialwires:mechanical_converter:1, Converter: Rotational To Kinetic
