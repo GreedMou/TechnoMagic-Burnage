@@ -2282,6 +2282,36 @@ appliedenergistics2:facade:0, Cable Facade - Dark Oak Trim
 appliedenergistics2:facade:0, Cable Facade - Portal Frame
 appliedenergistics2:facade:0, Cable Facade - Sticky Ore
 appliedenergistics2:facade:0, Cable Facade - Clay Ore
+appliedenergistics2:facade:0, Cable Facade - Litherite
+appliedenergistics2:facade:0, Cable Facade - Litherite Paver
+appliedenergistics2:facade:0, Cable Facade - Litherite Bricks
+appliedenergistics2:facade:0, Cable Facade - Litherite Tiles
+appliedenergistics2:facade:0, Cable Facade - Erodium
+appliedenergistics2:facade:0, Cable Facade - Erodium Paver
+appliedenergistics2:facade:0, Cable Facade - Erodium Bricks
+appliedenergistics2:facade:0, Cable Facade - Erodium Tiles
+appliedenergistics2:facade:0, Cable Facade - Kyronite
+appliedenergistics2:facade:0, Cable Facade - Kyronite Paver
+appliedenergistics2:facade:0, Cable Facade - Kyronite Bricks
+appliedenergistics2:facade:0, Cable Facade - Kyronite Tiles
+appliedenergistics2:facade:0, Cable Facade - Pladium
+appliedenergistics2:facade:0, Cable Facade - Pladium Paver
+appliedenergistics2:facade:0, Cable Facade - Pladium Bricks
+appliedenergistics2:facade:0, Cable Facade - Pladium Tiles
+appliedenergistics2:facade:0, Cable Facade - Ionite
+appliedenergistics2:facade:0, Cable Facade - Ionite Paver
+appliedenergistics2:facade:0, Cable Facade - Ionite Bricks
+appliedenergistics2:facade:0, Cable Facade - Ionite Tiles
+appliedenergistics2:facade:0, Cable Facade - Aethium
+appliedenergistics2:facade:0, Cable Facade - Aethium Paver
+appliedenergistics2:facade:0, Cable Facade - Aethium Bricks
+appliedenergistics2:facade:0, Cable Facade - Aethium Tiles
+appliedenergistics2:facade:0, Cable Facade - Lonsdaleite
+appliedenergistics2:facade:0, Cable Facade - Lonsdaleite Paver
+appliedenergistics2:facade:0, Cable Facade - Lonsdaleite Bricks
+appliedenergistics2:facade:0, Cable Facade - Lonsdaleite Tiles
+appliedenergistics2:facade:0, Cable Facade - Mica
+appliedenergistics2:facade:0, Cable Facade - Interconnect
 appliedenergistics2:crystal_seed:0, Certus Quartz Seed
 appliedenergistics2:crystal_seed:600, Nether Quartz Seed
 appliedenergistics2:crystal_seed:1200, Fluix Seed
@@ -4368,34 +4398,34 @@ tconstruct:slime_vine_purple_end:0, Purple Slimy Vine
 tconstruct:slime_vine_purple_mid:0, Purple Slimy Vine
 tconstruct:slime_vine_purple:0, Purple Slimy Vine
 tconstruct:pattern:0, Blank Pattern
+tconstruct:pattern:0, Pickaxe Head Pattern
 tconstruct:pattern:0, Hammer Head Pattern
-tconstruct:pattern:0, Bowlimb Pattern
+tconstruct:pattern:0, Pan Pattern
+tconstruct:pattern:0, Arrow Shaft Pattern
+tconstruct:pattern:0, Knife Blade Pattern
+tconstruct:pattern:0, Tool Rod Pattern
+tconstruct:pattern:0, Large Sword Blade Pattern
 tconstruct:pattern:0, Excavator Head Pattern
-tconstruct:pattern:0, Broad Axe Head Pattern
+tconstruct:pattern:0, Sign Plate Pattern
+tconstruct:pattern:0, Large Plate Pattern
+tconstruct:pattern:0, Tough Binding Pattern
 tconstruct:pattern:0, Cross Guard Pattern
-tconstruct:pattern:0, Axe Head Pattern
+tconstruct:pattern:0, Sharpening Kit Pattern
+tconstruct:pattern:0, Binding Pattern
+tconstruct:pattern:0, Sword Blade Pattern
 tconstruct:pattern:0, Kama Head Pattern
 tconstruct:pattern:0, Fletching Pattern
-tconstruct:pattern:0, Arrow Shaft Pattern
-tconstruct:pattern:0, Pan Pattern
-tconstruct:pattern:0, Large Sword Blade Pattern
-tconstruct:pattern:0, Shard Pattern
-tconstruct:pattern:0, Wide Guard Pattern
-tconstruct:pattern:0, Sword Blade Pattern
 tconstruct:pattern:0, Hand Guard Pattern
-tconstruct:pattern:0, Bowstring Pattern
-tconstruct:pattern:0, Sharpening Kit Pattern
-tconstruct:pattern:0, Shovel Head Pattern
-tconstruct:pattern:0, Tough Binding Pattern
-tconstruct:pattern:0, Tool Rod Pattern
-tconstruct:pattern:0, Sign Plate Pattern
-tconstruct:pattern:0, Knife Blade Pattern
 tconstruct:pattern:0, Scythe Head Pattern
 tconstruct:pattern:0, Arrow Head Pattern
-tconstruct:pattern:0, Large Plate Pattern
-tconstruct:pattern:0, Pickaxe Head Pattern
-tconstruct:pattern:0, Binding Pattern
+tconstruct:pattern:0, Shovel Head Pattern
 tconstruct:pattern:0, Tough Tool Rod Pattern
+tconstruct:pattern:0, Wide Guard Pattern
+tconstruct:pattern:0, Shard Pattern
+tconstruct:pattern:0, Axe Head Pattern
+tconstruct:pattern:0, Bowstring Pattern
+tconstruct:pattern:0, Bowlimb Pattern
+tconstruct:pattern:0, Broad Axe Head Pattern
 tconstruct:shard:0, Electrical Shard
 tconstruct:shard:0, Energetic Shard
 tconstruct:shard:0, Vibrant Shard
@@ -5565,64 +5595,64 @@ tconstruct:seared_stairs_road:0, Seared Road Stairs
 tconstruct:seared_stairs_tile:0, Seared Tile Stairs
 tconstruct:seared_stairs_creeper:0, Seared Creeperface Stairs
 tconstruct:cast:0, Blank Cast
+tconstruct:cast:0, Pickaxe Head Cast
 tconstruct:cast:0, Hammer Head Cast
-tconstruct:cast:0, Bowlimb Cast
-tconstruct:cast:0, Excavator Head Cast
-tconstruct:cast:0, Broad Axe Head Cast
-tconstruct:cast:0, Cross Guard Cast
-tconstruct:cast:0, Axe Head Cast
-tconstruct:cast:0, Kama Head Cast
 tconstruct:cast:0, Pan Cast
-tconstruct:cast:0, Large Sword Blade Cast
-tconstruct:cast:0, Shard Cast
-tconstruct:cast:0, Wide Guard Cast
-tconstruct:cast:0, Sword Blade Cast
-tconstruct:cast:0, Hand Guard Cast
-tconstruct:cast:0, Bowstring Cast
-tconstruct:cast:0, Sharpening Kit Cast
-tconstruct:cast:0, Shovel Head Cast
-tconstruct:cast:0, Tough Binding Cast
-tconstruct:cast:0, Tool Rod Cast
-tconstruct:cast:0, Sign Plate Cast
 tconstruct:cast:0, Knife Blade Cast
+tconstruct:cast:0, Tool Rod Cast
+tconstruct:cast:0, Large Sword Blade Cast
+tconstruct:cast:0, Excavator Head Cast
+tconstruct:cast:0, Sign Plate Cast
+tconstruct:cast:0, Large Plate Cast
+tconstruct:cast:0, Tough Binding Cast
+tconstruct:cast:0, Cross Guard Cast
+tconstruct:cast:0, Sharpening Kit Cast
+tconstruct:cast:0, Binding Cast
+tconstruct:cast:0, Sword Blade Cast
+tconstruct:cast:0, Kama Head Cast
+tconstruct:cast:0, Hand Guard Cast
 tconstruct:cast:0, Scythe Head Cast
 tconstruct:cast:0, Arrow Head Cast
-tconstruct:cast:0, Large Plate Cast
-tconstruct:cast:0, Pickaxe Head Cast
-tconstruct:cast:0, Binding Cast
+tconstruct:cast:0, Shovel Head Cast
 tconstruct:cast:0, Tough Tool Rod Cast
+tconstruct:cast:0, Wide Guard Cast
+tconstruct:cast:0, Shard Cast
+tconstruct:cast:0, Axe Head Cast
+tconstruct:cast:0, Bowstring Cast
+tconstruct:cast:0, Bowlimb Cast
+tconstruct:cast:0, Broad Axe Head Cast
 tconstruct:cast_custom:0, Ingot Cast
 tconstruct:cast_custom:1, Nugget Cast
 tconstruct:cast_custom:2, Gem Cast
 tconstruct:cast_custom:3, Plate Cast
 tconstruct:cast_custom:4, Gear Cast
 tconstruct:clay_cast:0, item.tconstruct.clay_cast.blank
+tconstruct:clay_cast:0, Pickaxe Head Clay Cast
 tconstruct:clay_cast:0, Hammer Head Clay Cast
-tconstruct:clay_cast:0, Bowlimb Clay Cast
-tconstruct:clay_cast:0, Excavator Head Clay Cast
-tconstruct:clay_cast:0, Broad Axe Head Clay Cast
-tconstruct:clay_cast:0, Cross Guard Clay Cast
-tconstruct:clay_cast:0, Axe Head Clay Cast
-tconstruct:clay_cast:0, Kama Head Clay Cast
 tconstruct:clay_cast:0, Pan Clay Cast
-tconstruct:clay_cast:0, Large Sword Blade Clay Cast
-tconstruct:clay_cast:0, Shard Clay Cast
-tconstruct:clay_cast:0, Wide Guard Clay Cast
-tconstruct:clay_cast:0, Sword Blade Clay Cast
-tconstruct:clay_cast:0, Hand Guard Clay Cast
-tconstruct:clay_cast:0, Bowstring Clay Cast
-tconstruct:clay_cast:0, Sharpening Kit Clay Cast
-tconstruct:clay_cast:0, Shovel Head Clay Cast
-tconstruct:clay_cast:0, Tough Binding Clay Cast
-tconstruct:clay_cast:0, Tool Rod Clay Cast
-tconstruct:clay_cast:0, Sign Plate Clay Cast
 tconstruct:clay_cast:0, Knife Blade Clay Cast
+tconstruct:clay_cast:0, Tool Rod Clay Cast
+tconstruct:clay_cast:0, Large Sword Blade Clay Cast
+tconstruct:clay_cast:0, Excavator Head Clay Cast
+tconstruct:clay_cast:0, Sign Plate Clay Cast
+tconstruct:clay_cast:0, Large Plate Clay Cast
+tconstruct:clay_cast:0, Tough Binding Clay Cast
+tconstruct:clay_cast:0, Cross Guard Clay Cast
+tconstruct:clay_cast:0, Sharpening Kit Clay Cast
+tconstruct:clay_cast:0, Binding Clay Cast
+tconstruct:clay_cast:0, Sword Blade Clay Cast
+tconstruct:clay_cast:0, Kama Head Clay Cast
+tconstruct:clay_cast:0, Hand Guard Clay Cast
 tconstruct:clay_cast:0, Scythe Head Clay Cast
 tconstruct:clay_cast:0, Arrow Head Clay Cast
-tconstruct:clay_cast:0, Large Plate Clay Cast
-tconstruct:clay_cast:0, Pickaxe Head Clay Cast
-tconstruct:clay_cast:0, Binding Clay Cast
+tconstruct:clay_cast:0, Shovel Head Clay Cast
 tconstruct:clay_cast:0, Tough Tool Rod Clay Cast
+tconstruct:clay_cast:0, Wide Guard Clay Cast
+tconstruct:clay_cast:0, Shard Clay Cast
+tconstruct:clay_cast:0, Axe Head Clay Cast
+tconstruct:clay_cast:0, Bowstring Clay Cast
+tconstruct:clay_cast:0, Bowlimb Clay Cast
+tconstruct:clay_cast:0, Broad Axe Head Clay Cast
 tconstruct:stone_torch:0, Stone Torch
 tconstruct:stone_ladder:0, Stone Ladder
 tconstruct:punji:0, Punji Sticks
@@ -6217,6 +6247,41 @@ mekanism:plasticfence:13, §dMagenta Plastic Barrier
 mekanism:plasticfence:14, §6Orange Plastic Barrier
 mekanism:plasticfence:15, §fWhite Plastic Barrier
 mekanism:saltblock, Salt Block
+enderutilities:asu:0, Adjustable Storage Unit
+enderutilities:barrel:0, Barrel
+enderutilities:draw_bridge:0, Drawbridge
+enderutilities:draw_bridge:1, Advanced Drawbridge
+enderutilities:ender_elevator:0, Ender Elevator (white)
+enderutilities:ender_elevator_slab:0, Ender Elevator Slab (white)
+enderutilities:ender_elevator_layer:0, Ender Elevator Layer (white)
+enderutilities:inserter:0, Inserter
+enderutilities:inserter:1, Inserter (Filtered)
+enderutilities:floor:0, Floor
+enderutilities:floor:1, Cracked Floor
+enderutilities:energy_bridge:0, Energy Bridge Resonator
+enderutilities:energy_bridge:1, Energy Bridge Receiver
+enderutilities:energy_bridge:2, Energy Bridge Transmitter
+enderutilities:machine_0:0, Ender Furnace
+enderutilities:machine_1:0, Ender Infuser
+enderutilities:machine_1:1, Tool Workstation
+enderutilities:machine_1:2, Creation Station
+enderutilities:machine_1:3, Advanced Quick Stacker
+enderutilities:molecular_exciter, tile.null.name
+enderutilities:msu:0, Massive Storage Unit
+enderutilities:msu:1, Massive Storage Bundle
+enderutilities:phasing:0, Phasing Block
+enderutilities:phasing:1, Phasing Block (inverted)
+enderutilities:frame, tile.null.name
+enderutilities:portal_panel, tile.null.name
+enderutilities:sound_block:0, Sound Block
+enderutilities:storage_0:0, Small Memory Chest
+enderutilities:storage_0:1, Memory Chest
+enderutilities:storage_0:2, Large Memory Chest
+enderutilities:storage_0:3, Handy Chest (Small)
+enderutilities:storage_0:4, Handy Chest (Normal)
+enderutilities:storage_0:5, Handy Chest (Large)
+enderutilities:storage_0:6, Handy Chest (Extended)
+enderutilities:storage_0:7, Junk Storage Unit
 enderutilities:endercapacitor:0, Ender Capacitor (Basic)
 enderutilities:endercapacitor:0, Ender Capacitor (Basic)
 enderutilities:endercapacitor:1, Ender Capacitor (Enhanced)
@@ -6288,41 +6353,6 @@ enderutilities:syringe:1, Paralyzer Syringe
 enderutilities:syringe:2, Stimulant Syringe
 enderutilities:syringe:3, Passifier Syringe
 enderutilities:void_pickaxe, Void Pickaxe
-enderutilities:asu:0, Adjustable Storage Unit
-enderutilities:barrel:0, Barrel
-enderutilities:draw_bridge:0, Drawbridge
-enderutilities:draw_bridge:1, Advanced Drawbridge
-enderutilities:ender_elevator:0, Ender Elevator (white)
-enderutilities:ender_elevator_slab:0, Ender Elevator Slab (white)
-enderutilities:ender_elevator_layer:0, Ender Elevator Layer (white)
-enderutilities:inserter:0, Inserter
-enderutilities:inserter:1, Inserter (Filtered)
-enderutilities:floor:0, Floor
-enderutilities:floor:1, Cracked Floor
-enderutilities:energy_bridge:0, Energy Bridge Resonator
-enderutilities:energy_bridge:1, Energy Bridge Receiver
-enderutilities:energy_bridge:2, Energy Bridge Transmitter
-enderutilities:machine_0:0, Ender Furnace
-enderutilities:machine_1:0, Ender Infuser
-enderutilities:machine_1:1, Tool Workstation
-enderutilities:machine_1:2, Creation Station
-enderutilities:machine_1:3, Advanced Quick Stacker
-enderutilities:molecular_exciter, tile.null.name
-enderutilities:msu:0, Massive Storage Unit
-enderutilities:msu:1, Massive Storage Bundle
-enderutilities:phasing:0, Phasing Block
-enderutilities:phasing:1, Phasing Block (inverted)
-enderutilities:frame, tile.null.name
-enderutilities:portal_panel, tile.null.name
-enderutilities:sound_block:0, Sound Block
-enderutilities:storage_0:0, Small Memory Chest
-enderutilities:storage_0:1, Memory Chest
-enderutilities:storage_0:2, Large Memory Chest
-enderutilities:storage_0:3, Handy Chest (Small)
-enderutilities:storage_0:4, Handy Chest (Normal)
-enderutilities:storage_0:5, Handy Chest (Large)
-enderutilities:storage_0:6, Handy Chest (Extended)
-enderutilities:storage_0:7, Junk Storage Unit
 extendedcrafting:storage:0, Block of Black Iron
 extendedcrafting:storage:1, Block of Luminessence
 extendedcrafting:storage:2, Block of Nether Stars
@@ -6919,6 +6949,7 @@ storagedrawers:shroud_key, Concealment Key
 storagedrawers:personal_key, Personal Key
 storagedrawers:quantify_key, Quantify Key
 storagedrawers:tape, Packing Tape
+thaumicenergistics:infusion_provider, Essentia Infusion Provider
 thaumicenergistics:essentia_cell_1k, 1k ME Essentia Storage Cell
 thaumicenergistics:essentia_cell_4k, 4k ME Essentia Storage Cell
 thaumicenergistics:essentia_cell_16k, 16k ME Essentia Storage Cell
@@ -6937,7 +6968,6 @@ thaumicenergistics:essentia_component_16k, 16k ME Essentia Storage Component
 thaumicenergistics:essentia_component_64k, 64k ME Essentia Storage Component
 thaumicenergistics:upgrade_arcane, Arcane Charging Upgrade
 thaumicenergistics:dummy_aspect, item.thaumicenergistics.dummy_aspect.name
-thaumicenergistics:infusion_provider, Essentia Infusion Provider
 thaumicterminal:item_part:0, Arcane Terminal
 industrialwires:mechanical_converter:0, Rotational Motor
 industrialwires:mechanical_converter:1, Converter: Rotational To Kinetic
@@ -6991,6 +7021,197 @@ aroma1997sdimension:miningmultitool, Mining Multitool
 aroma1997sdimension:dimensionchanger, DimensionChanger
 aroma1997sdimension:miningore:0, Sticky Ore
 aroma1997sdimension:miningore:1, Clay Ore
+valkyrielib:guide, Digital Guide
+valkyrielib:modifier_component, Modifier Component
+valkyrielib:modifier_speed, Speed Modifier
+environmentaltech:litherite, Litherite
+environmentaltech:litherite_paver, Litherite Paver
+environmentaltech:litherite_bricks, Litherite Bricks
+environmentaltech:litherite_tiles, Litherite Tiles
+environmentaltech:litherite_stairs, Litherite Stairs
+environmentaltech:litherite_brick_stairs, Litherite Brick Stairs
+environmentaltech:litherite_tile_stairs, Litherite Tile Stairs
+environmentaltech:litherite_slab:0, Litherite Slab
+environmentaltech:litherite_paver_slab:0, Litherite Paver Slab
+environmentaltech:litherite_brick_slab:0, Litherite Brick Slab
+environmentaltech:litherite_tile_slab:0, Litherite Tile Slab
+environmentaltech:erodium, Erodium
+environmentaltech:erodium_paver, Erodium Paver
+environmentaltech:erodium_bricks, Erodium Bricks
+environmentaltech:erodium_tiles, Erodium Tiles
+environmentaltech:erodium_stairs, Erodium Stairs
+environmentaltech:erodium_brick_stairs, Erodium Brick Stairs
+environmentaltech:erodium_tile_stairs, Erodium Tile Stairs
+environmentaltech:erodium_slab:0, Erodium Slab
+environmentaltech:erodium_paver_slab:0, Erodium Paver Slab
+environmentaltech:erodium_brick_slab:0, Erodium Brick Slab
+environmentaltech:erodium_tile_slab:0, Erodium Tile Slab
+environmentaltech:kyronite, Kyronite
+environmentaltech:kyronite_paver, Kyronite Paver
+environmentaltech:kyronite_bricks, Kyronite Bricks
+environmentaltech:kyronite_tiles, Kyronite Tiles
+environmentaltech:kyronite_stairs, Kyronite Stairs
+environmentaltech:kyronite_brick_stairs, Kyronite Brick Stairs
+environmentaltech:kyronite_tile_stairs, Kyronite Tile Stairs
+environmentaltech:kyronite_slab:0, Kyronite Slab
+environmentaltech:kyronite_paver_slab:0, Kyronite Paver Slab
+environmentaltech:kyronite_brick_slab:0, Kyronite Brick Slab
+environmentaltech:kyronite_tile_slab:0, Kyronite Tile Slab
+environmentaltech:pladium, Pladium
+environmentaltech:pladium_paver, Pladium Paver
+environmentaltech:pladium_bricks, Pladium Bricks
+environmentaltech:pladium_tiles, Pladium Tiles
+environmentaltech:pladium_stairs, Pladium Stairs
+environmentaltech:pladium_brick_stairs, Pladium Brick Stairs
+environmentaltech:pladium_tile_stairs, Pladium Tile Stairs
+environmentaltech:pladium_slab:0, Pladium Slab
+environmentaltech:pladium_paver_slab:0, Pladium Paver Slab
+environmentaltech:pladium_brick_slab:0, Pladium Brick Slab
+environmentaltech:pladium_tile_slab:0, Pladium Tile Slab
+environmentaltech:ionite, Ionite
+environmentaltech:ionite_paver, Ionite Paver
+environmentaltech:ionite_bricks, Ionite Bricks
+environmentaltech:ionite_tiles, Ionite Tiles
+environmentaltech:ionite_stairs, Ionite Stairs
+environmentaltech:ionite_brick_stairs, Ionite Brick Stairs
+environmentaltech:ionite_tile_stairs, Ionite Tile Stairs
+environmentaltech:ionite_slab:0, Ionite Slab
+environmentaltech:ionite_paver_slab:0, Ionite Paver Slab
+environmentaltech:ionite_brick_slab:0, Ionite Brick Slab
+environmentaltech:ionite_tile_slab:0, Ionite Tile Slab
+environmentaltech:aethium, Aethium
+environmentaltech:aethium_paver, Aethium Paver
+environmentaltech:aethium_bricks, Aethium Bricks
+environmentaltech:aethium_tiles, Aethium Tiles
+environmentaltech:aethium_stairs, Aethium Stairs
+environmentaltech:aethium_brick_stairs, Aethium Brick Stairs
+environmentaltech:aethium_tile_stairs, Aethium Tile Stairs
+environmentaltech:aethium_slab:0, Aethium Slab
+environmentaltech:aethium_paver_slab:0, Aethium Paver Slab
+environmentaltech:aethium_brick_slab:0, Aethium Brick Slab
+environmentaltech:aethium_tile_slab:0, Aethium Tile Slab
+environmentaltech:lonsdaleite, Lonsdaleite
+environmentaltech:lonsdaleite_paver, Lonsdaleite Paver
+environmentaltech:lonsdaleite_bricks, Lonsdaleite Bricks
+environmentaltech:lonsdaleite_tiles, Lonsdaleite Tiles
+environmentaltech:lonsdaleite_stairs, Lonsdaleite Stairs
+environmentaltech:lonsdaleite_brick_stairs, Lonsdaleite Brick Stairs
+environmentaltech:lonsdaleite_tile_stairs, Lonsdaleite Tile Stairs
+environmentaltech:lonsdaleite_slab:0, Lonsdaleite Slab
+environmentaltech:lonsdaleite_paver_slab:0, Lonsdaleite Paver Slab
+environmentaltech:lonsdaleite_brick_slab:0, Lonsdaleite Brick Slab
+environmentaltech:lonsdaleite_tile_slab:0, Lonsdaleite Tile Slab
+environmentaltech:mica, Mica
+environmentaltech:litherite_crystal, Litherite Crystal
+environmentaltech:erodium_crystal, Erodium Crystal
+environmentaltech:kyronite_crystal, Kyronite Crystal
+environmentaltech:pladium_crystal, Pladium Crystal
+environmentaltech:ionite_crystal, Ionite Crystal
+environmentaltech:aethium_crystal, Aethium Crystal
+environmentaltech:lonsdaleite_crystal, Lonsdaleite Crystal
+environmentaltech:interconnect, Interconnect
+environmentaltech:tool_multiblock_assembler, Assembler
+environmentaltech:connector, Connector
+environmentaltech:modifier_null, Null Modifier
+environmentaltech:modifier_speed, Speed Modifier
+environmentaltech:modifier_luck, Luck Modifier
+environmentaltech:structure_frame_1, Structure Frame Tier 1
+environmentaltech:structure_frame_2, Structure Frame Tier 2
+environmentaltech:structure_frame_3, Structure Frame Tier 3
+environmentaltech:structure_frame_4, Structure Frame Tier 4
+environmentaltech:structure_frame_5, Structure Frame Tier 5
+environmentaltech:structure_frame_6, Structure Frame Tier 6
+environmentaltech:structure_panel, Structure Panel
+environmentaltech:structure_panel_clear, Clear Structure Panel
+environmentaltech:lightning_rod, Lightning Rod
+environmentaltech:lightning_rod_insulated, Insulated Lightning Rod
+environmentaltech:lightning_cont_1, Lightning Controller Tier 1
+environmentaltech:lightning_cont_2, Lightning Controller Tier 2
+environmentaltech:lightning_cont_3, Lightning Controller Tier 3
+environmentaltech:lightning_cont_4, Lightning Controller Tier 4
+environmentaltech:lightning_cont_5, Lightning Controller Tier 5
+environmentaltech:lightning_cont_6, Lightning Controller Tier 6
+environmentaltech:solar_cont_1, Solar Array Controller Tier 1
+environmentaltech:solar_cont_2, Solar Array Controller Tier 2
+environmentaltech:solar_cont_3, Solar Array Controller Tier 3
+environmentaltech:solar_cont_4, Solar Array Controller Tier 4
+environmentaltech:solar_cont_5, Solar Array Controller Tier 5
+environmentaltech:solar_cont_6, Solar Array Controller Tier 6
+environmentaltech:solar_cell_litherite, Litherite Solar Cell
+environmentaltech:solar_cell_erodium, Erodium Solar Cell
+environmentaltech:solar_cell_kyronite, Kyronite Solar Cell
+environmentaltech:solar_cell_pladium, Pladium Solar Cell
+environmentaltech:solar_cell_ionite, Ionite Solar Cell
+environmentaltech:solar_cell_aethium, Aethium Solar Cell
+environmentaltech:modifier_piezo, Piezo Modifier
+environmentaltech:photovoltaic_cell, Photovoltaic Cell
+environmentaltech:thermal_cell, Thermal Cell
+environmentaltech:laser_core, Laser Core
+environmentaltech:laser_lens, Clear Laser Lens
+environmentaltech:laser_lens_crystal, Crystal Laser Lens
+environmentaltech:laser_lens_colored:0, White Laser Lens
+environmentaltech:laser_lens_colored:1, Orange Laser Lens
+environmentaltech:laser_lens_colored:2, Magenta Laser Lens
+environmentaltech:laser_lens_colored:3, Light Blue Laser Lens
+environmentaltech:laser_lens_colored:4, Yellow Laser Lens
+environmentaltech:laser_lens_colored:5, Lime Laser Lens
+environmentaltech:laser_lens_colored:6, Pink Laser Lens
+environmentaltech:laser_lens_colored:7, Gray Laser Lens
+environmentaltech:laser_lens_colored:8, Light Gray Laser Lens
+environmentaltech:laser_lens_colored:9, Cyan Laser Lens
+environmentaltech:laser_lens_colored:10, Purple Laser Lens
+environmentaltech:laser_lens_colored:11, Blue Laser Lens
+environmentaltech:laser_lens_colored:12, Brown Laser Lens
+environmentaltech:laser_lens_colored:13, Green Laser Lens
+environmentaltech:laser_lens_colored:14, Red Laser Lens
+environmentaltech:laser_lens_colored:15, Black Laser Lens
+environmentaltech:modifier_accuracy, Accuracy Modifier
+environmentaltech:diode, Diode
+environmentaltech:void_ore_miner_cont_1, Void Ore Miner Controller Tier 1
+environmentaltech:void_ore_miner_cont_2, Void Ore Miner Controller Tier 2
+environmentaltech:void_ore_miner_cont_3, Void Ore Miner Controller Tier 3
+environmentaltech:void_ore_miner_cont_4, Void Ore Miner Controller Tier 4
+environmentaltech:void_ore_miner_cont_5, Void Ore Miner Controller Tier 5
+environmentaltech:void_ore_miner_cont_6, Void Ore Miner Controller Tier 6
+environmentaltech:void_res_miner_cont_1, Void Resource Miner Controller Tier 1
+environmentaltech:void_res_miner_cont_2, Void Resource Miner Controller Tier 2
+environmentaltech:void_res_miner_cont_3, Void Resource Miner Controller Tier 3
+environmentaltech:void_res_miner_cont_4, Void Resource Miner Controller Tier 4
+environmentaltech:void_res_miner_cont_5, Void Resource Miner Controller Tier 5
+environmentaltech:void_res_miner_cont_6, Void Resource Miner Controller Tier 6
+environmentaltech:void_botanic_miner_cont_1, Void Botanic Miner Controller Tier 1
+environmentaltech:void_botanic_miner_cont_2, Void Botanic Miner Controller Tier 2
+environmentaltech:void_botanic_miner_cont_3, Void Botanic Miner Controller Tier 3
+environmentaltech:void_botanic_miner_cont_4, Void Botanic Miner Controller Tier 4
+environmentaltech:void_botanic_miner_cont_5, Void Botanic Miner Controller Tier 5
+environmentaltech:void_botanic_miner_cont_6, Void Botanic Miner Controller Tier 6
+environmentaltech:modifier_creative_flight, Creative Flight Modifier
+environmentaltech:modifier_flight_speed, Flight Speed Modifier
+environmentaltech:modifier_haste, Haste Modifier
+environmentaltech:modifier_strength, Strength Modifier
+environmentaltech:modifier_jump_boost, Jump Boost Modifier
+environmentaltech:modifier_regeneration, Regen Modifier
+environmentaltech:modifier_resistance, Resistance Modifier
+environmentaltech:modifier_fire_resistance, Fire Resistance Modifier
+environmentaltech:modifier_water_breathing, Water Breathing Modifier
+environmentaltech:modifier_invisibility, Invisibility Modifier
+environmentaltech:modifier_night_vision, Night Vision Modifier
+environmentaltech:modifier_health_boost, Health Boost Modifier
+environmentaltech:modifier_absorption, Absoption Modifier
+environmentaltech:modifier_saturation, Saturation Modifier
+environmentaltech:modifier_glowing, Glowing Modifier
+environmentaltech:nano_cont_ranged_1, Ranged Nano Bot Beacon Tier 1
+environmentaltech:nano_cont_ranged_2, Ranged Nano Bot Beacon Tier 2
+environmentaltech:nano_cont_ranged_3, Ranged Nano Bot Beacon Tier 3
+environmentaltech:nano_cont_ranged_4, Ranged Nano Bot Beacon Tier 4
+environmentaltech:nano_cont_ranged_5, Ranged Nano Bot Beacon Tier 5
+environmentaltech:nano_cont_ranged_6, Ranged Nano Bot Beacon Tier 6
+environmentaltech:nano_cont_personal_1, Personal Nano Bot Beacon Tier 1
+environmentaltech:nano_cont_personal_2, Personal Nano Bot Beacon Tier 2
+environmentaltech:nano_cont_personal_3, Personal Nano Bot Beacon Tier 3
+environmentaltech:nano_cont_personal_4, Personal Nano Bot Beacon Tier 4
+environmentaltech:nano_cont_personal_5, Personal Nano Bot Beacon Tier 5
+environmentaltech:nano_cont_personal_6, Personal Nano Bot Beacon Tier 6
 industrialforegoing:petrified_fuel_generator, Petrified Fuel Generator
 industrialforegoing:enchantment_refiner, Enchantment Sorter
 industrialforegoing:enchantment_extractor, Enchantment Extractor

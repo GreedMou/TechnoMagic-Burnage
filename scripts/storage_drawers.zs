@@ -7,6 +7,7 @@ var vibrant_rod = <tconstruct:tool_rod>.withTag({Material: "vibrant_alloy"});
 var obsidian_large_plate = <tconstruct:large_plate>.withTag({Material: "obsidian"});
 var iron_large_plate = <tconstruct:large_plate>.withTag({Material: "iron"});
 
+
 # Remove vanilla crafts
 recipes.remove(<storagedrawers:upgrade_storage>);
 recipes.remove(<storagedrawers:upgrade_storage:1>);
