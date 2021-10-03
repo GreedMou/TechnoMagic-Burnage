@@ -38,7 +38,7 @@ recipes.addShaped("sd_storageupdrade_gold", <storagedrawers:upgrade_storage:2>,
                         [electrum_rod, electrum_rod, electrum_rod]
                     ]);
 
-mods.extendedcrafting.TableCrafting.addShaped(2, <storagedrawers:upgrade_storage:3>,[
+mods.extendedcrafting.TableCrafting.addShaped(2, <storagedrawers:upgrade_storage:3> * 2,[
                         [null, <colossalchests:chest_wall:5>, <thaumcraft:plate:2>, <colossalchests:chest_wall:5>, null],
                         [<colossalchests:chest_wall:5>, <ic2:plate:16>, vibrant_rod, <ic2:plate:16>, <colossalchests:chest_wall:5>],
                         [<thaumcraft:plate:2>, vibrant_rod, <storagedrawers:upgrade_storage:2>, vibrant_rod, <thaumcraft:plate:2>],
@@ -46,4 +46,10 @@ mods.extendedcrafting.TableCrafting.addShaped(2, <storagedrawers:upgrade_storage
                         [null, <colossalchests:chest_wall:5>, <bloodmagic:slate:2>, <colossalchests:chest_wall:5>, null]
                     ]);
 
-
+mods.extendedcrafting.TableCrafting.addShaped(2, <storagedrawers:upgrade_storage:4> * 2, [
+    [null, <colossalchests:chest_wall:6>, <thaumcraft:alumentum>, <colossalchests:chest_wall:6>, null],
+    [<colossalchests:chest_wall:6>, <ic2:crafting:3>, <minecraft:emerald>, <ic2:crafting:3>, <colossalchests:chest_wall:6>],
+    [<bloodarsenal:base_item:4>, <minecraft:emerald>, <storagedrawers:upgrade_storage:3>, <minecraft:emerald>,<bloodarsenal:base_item:4>],
+    [<colossalchests:chest_wall:6>, <ic2:crafting:3>, <minecraft:emerald>, <ic2:crafting:3>, <colossalchests:chest_wall:6>],
+    [null, <colossalchests:chest_wall:6>, <thaumcraft:alumentum>, <colossalchests:chest_wall:6>, null]
+]);

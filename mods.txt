@@ -1,17 +1,31 @@
 Other:
-	Storage Drawers
-	Tinker
+	Early - Colossal Chests
+	Early - Storage Drawers
+	Early - Tinker
 
 Tech:
-	Applied Energistics 2
-	Ender IO
-	Environmental Tech
-	Immersive Engineering
-	Industrial Craft
-	Industrial Foregoing
-	Mekanism
+	Mid/Late - Applied Energistics 2
+	All - Ender IO
+	Late - Environmental Tech
+	Early - Immersive Engineering
+	Mid - Industrial Craft
+	Mid/Late Industrial Foregoing
+	Early - Mekanism
 
 Magic:
-	Blood Magic
-	Thaumcraft
-	Botania
+	Early - Blood Magic
+	All - Thaumcraft
+	Mid/Late - Botania
+
+Stages:
+
+	Tinker						IC 2										Industrial Foregoing
+	EnderIO						EnderIO										AE 2
+	Mekanism					Early  AE 2									EnderIO
+	Immersive																ET
+	Early IC 2					
+	
+	
+	Blood Magic					Thaum										Thaum
+	Thaumcraft					Blood										Botania
+								Botania
