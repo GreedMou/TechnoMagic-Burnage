@@ -1719,7 +1719,7 @@ block tconstruct:metal 3 ffc486ee
 block tconstruct:metal 4 ffd8a7a7
 block tconstruct:metal 5 ffd4ae43
 block tconstruct:metal 6 fff2d374
-block tconstruct:glow * 0bfffc9b
+block tconstruct:glow * 06fffb9c
 block tconstruct:slime_dirt * ff639865
 block tconstruct:slime_dirt 1 ff629298
 block tconstruct:slime_dirt 2 ff86619a
