@@ -1,0 +1,17 @@
+Other:
+	Storage Drawers
+	Tinker
+
+Tech:
+	Applied Energistics 2
+	Ender IO
+	Environmental Tech
+	Immersive Engineering
+	Industrial Craft
+	Industrial Foregoing
+	Mekanism
+
+Magic:
+	Blood Magic
+	Thaumcraft
+	Botania
