@@ -27,8 +27,7 @@ recipes.addShaped("sd_storageupdrade_obsidian", <storagedrawers:upgrade_storage>
 recipes.addShaped("sd_storageupdrade_iron", <storagedrawers:upgrade_storage:1>, 
                     [
                         [fakeiron_rod, fakeiron_rod, fakeiron_rod],
-                        [iron_large_plate, <storagedrawers:upgrade_storage
-                        >, iron_large_plate], 
+                        [iron_large_plate, <storagedrawers:upgrade_storage>, iron_large_plate], 
                         [fakeiron_rod, fakeiron_rod, fakeiron_rod]
                     ]);
 
@@ -36,14 +35,15 @@ recipes.addShaped("sd_storageupdrade_gold", <storagedrawers:upgrade_storage:2>,
                     [
                         [electrum_rod, electrum_rod, electrum_rod],
                         [<ic2:plate:2>, <storagedrawers:upgrade_storage:1>, <ic2:plate:2>], 
-                        [electrum_rod, electrum_rod, electrum_rod]]);
+                        [electrum_rod, electrum_rod, electrum_rod]
+                    ]);
 
 mods.extendedcrafting.TableCrafting.addShaped(2, <storagedrawers:upgrade_storage:3>,[
-    [null, <colossalchests:chest_wall:5>, <thaumcraft:plate:2>, <colossalchests:chest_wall:5>, null],
-    [<colossalchests:chest_wall:5>, <ic2:plate:16>, vibrant_rod, <ic2:plate:16>, <colossalchests:chest_wall:5>],
-    [<thaumcraft:plate:2>, vibrant_rod, <storagedrawers:upgrade_storage:2>, vibrant_rod, <thaumcraft:plate:2>],
-    [<colossalchests:chest_wall:5>, <ic2:plate:16>, vibrant_rod, <ic2:plate:16>, <colossalchests:chest_wall:5>],
-    [null, <colossalchests:chest_wall:5>, <bloodmagic:slate:2>, <colossalchests:chest_wall:5>, null]
-]);
+                        [null, <colossalchests:chest_wall:5>, <thaumcraft:plate:2>, <colossalchests:chest_wall:5>, null],
+                        [<colossalchests:chest_wall:5>, <ic2:plate:16>, vibrant_rod, <ic2:plate:16>, <colossalchests:chest_wall:5>],
+                        [<thaumcraft:plate:2>, vibrant_rod, <storagedrawers:upgrade_storage:2>, vibrant_rod, <thaumcraft:plate:2>],
+                        [<colossalchests:chest_wall:5>, <ic2:plate:16>, vibrant_rod, <ic2:plate:16>, <colossalchests:chest_wall:5>],
+                        [null, <colossalchests:chest_wall:5>, <bloodmagic:slate:2>, <colossalchests:chest_wall:5>, null]
+                    ]);
 
 

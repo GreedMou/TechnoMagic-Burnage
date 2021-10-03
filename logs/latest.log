@@ -2416,3 +2416,41 @@ java.lang.IllegalArgumentException: null
 [02:55:59] [Server thread/INFO]: Saving and pausing game...
 [02:55:59] [Server thread/INFO]: Saving chunks for level 'New World'/overworld
 [02:56:00] [Server thread/INFO]: Saving chunks for level 'New World'/Storage Cell
+[02:59:28] [Client thread/INFO]: Player GreedMou/395e852a-da79-47ff-ab70-6dcd9accf507 placed a nuke at dim 0: 1607/16/182.
+[02:59:28] [Server thread/INFO]: Player GreedMou/395e852a-da79-47ff-ab70-6dcd9accf507 placed a nuke at dim 0: 1607/16/182.
+[02:59:39] [Server thread/INFO]: Nuke at dim 0: 1607/16/182 was ignited by EntityPlayerMP GreedMou.
+[03:00:04] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 10512ms behind, skipping 210 tick(s)
+[03:01:04] [Server thread/INFO]: GreedMou has made the advancement [Mystically Mechanical]
+[03:01:04] [Client thread/INFO]: [CHAT] GreedMou has made the advancement [Mystically Mechanical]
+[03:01:04] [Client thread/INFO]: Loaded 103 advancements
+[03:01:06] [Server thread/WARN]: Couldn't find resource table enderio:infinity/minecraft/bedrock
+[03:01:06] [Server thread/INFO]: Would have used loot table enderio:infinity/minecraft/bedrock for infinity crafting but it doesn't exist.
+[03:01:33] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2321ms behind, skipping 46 tick(s)
+[03:01:44] [Server thread/INFO]: [GreedMou: Set the time to 13000]
+[03:01:44] [Client thread/INFO]: [CHAT] Set the time to 13000
+[03:02:45] [Client thread/WARN]: Recipe registry plugin is slow, took 34.89 ms. class mezz.jei.recipes.InternalRecipeRegistryPlugin
+[03:03:06] [Client thread/WARN]: Recipe registry plugin is slow, took 84.12 ms. class mezz.jei.recipes.InternalRecipeRegistryPlugin
+[03:14:15] [Server thread/INFO]: Saving and pausing game...
+[03:14:15] [Server thread/INFO]: Saving chunks for level 'New World'/overworld
+[03:14:15] [Server thread/INFO]: Saving chunks for level 'New World'/Storage Cell
+[12:54:41] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 31556462ms behind, skipping 631129 tick(s)
+[12:54:42] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5409ms behind, skipping 108 tick(s)
+[16:01:25] [Client thread/INFO]: Stopping!
+[16:01:27] [Server thread/INFO]: Stopping server
+[16:01:27] [Server thread/INFO]: Saving players
+[16:01:27] [Server thread/INFO]: Saving worlds
+[16:01:27] [Server thread/INFO]: Saving chunks for level 'New World'/overworld
+[16:01:27] [Netty Local Client IO #0/INFO]: Reset configs to client values for com.enderio.core.common.config.ConfigHandler
+[16:01:27] [Server thread/INFO]: Saving chunks for level 'New World'/Storage Cell
+[16:01:27] [Server thread/INFO]: Removing aura cache for world 0
+[16:01:27] [Server thread/INFO]: Removing aura cache for world 2
+[16:01:27] [Server thread/INFO]: Unloading dimension 0
+[16:01:27] [Server thread/INFO]: Unloading dimension 2
+[16:01:27] [Thread-30/WARN]: No auras found!
+[16:01:27] [Thread-30/INFO]: Stopping aura thread for dim 2
+[16:01:28] [Thread-26/WARN]: No auras found!
+[16:01:28] [Thread-26/INFO]: Stopping aura thread for dim 0
+[16:01:38] [Server thread/INFO]: Applying holder lookups
+[16:01:39] [Server thread/INFO]: Holder lookups applied
+[16:01:39] [Client thread/INFO]: SoundSystem shutting down...
+[16:01:39] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
